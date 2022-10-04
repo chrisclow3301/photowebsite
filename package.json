@@ -1,0 +1,16 @@
+{
+  "name": "photowebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://chrisclow3301.github.io/photowebsite",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
